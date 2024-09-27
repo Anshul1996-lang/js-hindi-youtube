@@ -29,7 +29,7 @@ console.log(newStringOne);
 console.log(newStringOne.trim());
 
 
-
+console.log(this)
 
 
 
